@@ -1,0 +1,15 @@
+---------------------------------------------------------------
+1) Student Services/Careers Zone/Library
+2) Pendle Building (Rooms Starting with P1...)
+3) Ribble Building (Engineering)
+4) Calder Building (Rooms Starting with C0...)
+5) Calder Building (Rooms Starting with C1...)
+6) Boulsworth Building (Hair & Beauty)
+7) Whitemoor Building (Rooms Starting with W0...)
+8) Whitemoor Building (Rooms Starting with W1...)
+9) Triangle
+10) Jet Engine
+11) Study Zone
+12) Cafe
+13) Refectory
+---------------------------------------------------------------

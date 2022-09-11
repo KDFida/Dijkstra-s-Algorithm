@@ -1,0 +1,16 @@
+
+You are downstairs in Pendle Building
+You are upstairs in Pendle Building
+You are downstairs in Ribble Building
+You are upstairs in Ribble Building
+You are downstairs in Calder Building                  
+You are upstairs in Calder Building
+You are downstairs in Boulsworth Building
+You are upstairs in Boulsworth Building
+You are downstairs in Whitemoor Building
+You are upstairs in Whitemoor Building
+You are downstairs in Deerstone Building
+You are upstairs in Deerstone Building
+You are in the Cafe
+You are in the Triangle
+You are in the Refectory
